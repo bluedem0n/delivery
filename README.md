@@ -10,9 +10,9 @@
 3. Abrir app Lima Delivery
 4. Escoger pedido
 5. Llamar
-6. ¿Contestó?
-    6.1. SI - Hercer Pedido
-    6.2. NO - Regresar al paso 4 
+6. ¿Contestó la llamada?
+     6.1. SI - Hercer Pedido
+     6.2. NO - Regresar al paso 4 
 7. Confirmar datos del pedido
 8. Total de cuenta
 9. Colgar 
