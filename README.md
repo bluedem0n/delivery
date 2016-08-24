@@ -6,7 +6,7 @@
 ###### Proceso
 
 1. Inicio
-2. coger el celular
+2. Coger el celular
 3. Abrir app Lima Delivery
 4. Escoger pedido
 5. Llamar
