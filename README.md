@@ -1,4 +1,4 @@
-  # Diagrama de Flujo - Delivery
+# Diagrama de Flujo - Delivery
 
 ### Contexto
 > El contexto que le dimos al diagrama es de realizar pedidos mediante una app movil.
